@@ -1,0 +1,22 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "group.primemedia.meetcbn",
+      "sha256_cert_fingerprints": [
+        "19:D2:D3:44:33:AD:3E:97:CD:0B:46:02:B0:7F:6B:55:3C:FF:C6:2A:2A:8F:85:1F:CA:53:B4:81:76:04:18:27"
+      ]
+    }
+  },
+  {
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://pritesh-coditas.github.io/hello"
+      }
+    ]
+  }
+]
