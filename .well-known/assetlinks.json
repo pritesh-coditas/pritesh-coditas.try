@@ -5,26 +5,6 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.codexar.meetcbn",
-      "sha256_cert_fingerprints": [
-        "19:D2:D3:44:33:AD:3E:97:CD:0B:46:02:B0:7F:6B:55:3C:FF:C6:2A:2A:8F:85:1F:CA:53:B4:81:76:04:18:27"
-      ]
-    }
-  },
-  {
-    "links": [
-      {
-        "rel": "canonical",
-        "href": "https://pritesh-coditas.github.io/hello"
-      }
-    ]
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
       "package_name": "com.coditas.artownhall",
       "sha256_cert_fingerprints": [
         "B0:24:73:B3:3B:EF:64:F2:43:F5:7C:09:E9:68:CA:87:C0:6E:40:E2:78:58:48:E4:D5:55:00:27:95:EE:CB:F5"
