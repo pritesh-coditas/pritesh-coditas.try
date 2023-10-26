@@ -5,10 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "group.primemedia.meetcbn",
+      "package_name": "com.codexar.meetcbn",
       "sha256_cert_fingerprints": [
-        "19:D2:D3:44:33:AD:3E:97:CD:0B:46:02:B0:7F:6B:55:3C:FF:C6:2A:2A:8F:85:1F:CA:53:B4:81:76:04:18:27",
-        "A8:7C:3B:86:66:78:EC:EB:C6:5F:C4:1C:22:3E:BE:C3:8F:B0:50:5C:CE:A1:B2:2C:08:5B:A7:75:AC:F3:41:81"
+        "19:D2:D3:44:33:AD:3E:97:CD:0B:46:02:B0:7F:6B:55:3C:FF:C6:2A:2A:8F:85:1F:CA:53:B4:81:76:04:18:27"
       ]
     }
   },
@@ -19,5 +18,17 @@
         "href": "https://pritesh-coditas.github.io/hello"
       }
     ]
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.coditas.artownhall",
+      "sha256_cert_fingerprints": [
+        "B0:24:73:B3:3B:EF:64:F2:43:F5:7C:09:E9:68:CA:87:C0:6E:40:E2:78:58:48:E4:D5:55:00:27:95:EE:CB:F5"
+      ]
+    }
   }
 ]
